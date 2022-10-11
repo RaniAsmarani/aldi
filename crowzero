@@ -1,0 +1,22 @@
+#Bahasa pemrograman python
+#Membuat a string 
+#Dengan single Quotes
+crowzero = 'Roda hidup'
+print("proses itu sulit, tapi hadiahnya selangit. karena besok adalah misteri:")
+print(crowzero)
+#membuat String
+#Dengan double Quotes
+crowzero2 = "cukup tenang, tidak perlu senang"
+print("\nselalu ada hal baik yang selalu menanti di depan, walaupun rintangan banyak menghadang:")
+print(crowzero2)
+#membuat string
+#Dengan tiga Quotes
+crowzero3 = '''berusahalah untuk menggapai impian walaupun prosesnya sulit, karena hasil yang indah tidak datang dari instan. Kesuksesan dari orang-orang yang berkelas, tidak datang dari orang yang."pemalas"'''
+print("\njangan mau terburu-buru, kebanyakan orang mau cepat tapi tuhan maunya di waktu yang tepat:")
+print(crowzero3)
+#Creating String With Triple
+#Quotes allows multiple lines
+crowzero4 = ''' fighting
+          genji'''
+print("\nsemua yang kita lakukan sampai detik ini adalah hasil kita dimasa lalu:")
+print(crowzero4)
